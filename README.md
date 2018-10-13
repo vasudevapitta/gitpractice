@@ -79,3 +79,5 @@ cd into your new directory and open git bash there\
 
 If other developers made changes in your repo and you want to pull the project into your local machine\
 **git pull**
+
+[Readme Markdown](https://guides.github.com/features/mastering-markdown/#examples)

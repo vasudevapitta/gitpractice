@@ -75,7 +75,7 @@ to push the project into the remote repository
 
 to clone a project copy the url from github\
 cd into your new directory and open git bash there\
-**git clone https://github.com/vasudevapitta/nameOfTheRepo.git**\
+**git clone https://github.com/vasudevapitta/nameOfTheRepo.git**
 
 If other developers made changes in your repo and you want to pull the project into your local machine\
 **git pull**

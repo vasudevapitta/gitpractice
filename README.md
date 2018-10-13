@@ -58,8 +58,13 @@ git checkout master (to be on the master branch) then
 git merge login (and hit enter) then hit i for insert mode and then enter your commit message and then hit escape and then type :wq and hit enter
 this adds all the files created on the newlyCreatedBranch into the master branch
 
-On Thu, Oct 11, 2018 at 10:13 PM Vasudeva Pitta <tizzicboy@gmail.com> wrote:
-image.png
+git remote
+to see if there are any remote repositories
 
-On Thu, Oct 11, 2018 at 10:12 PM Vasudeva Pitta <tizzicboy@gmail.com> wrote:
-image.png
+go to github create a new repository with a name and copy the remote url into git bash and hit enter
+git remote add origin https://github.com/vasudevapitta/nameOfTheRepo.git
+
+then copy
+git push -u origin master
+into git bash and hit enter
+if prompted from your windows machine login with your github credentials (username & password)
